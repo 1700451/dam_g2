@@ -2,6 +2,12 @@
 .gradle/
 build/
 
+# Flutter and Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
 # Local configuration file (sdk path, etc)
 local.properties
 
